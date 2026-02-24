@@ -1,9 +1,9 @@
 🐍 Python Learning & Practice Repository
 
-This repository showcases my continuous learning journey in Python programming.
-It contains practice exercises, problem-solving implementations, and concept explorations aimed at building strong computational thinking and clean coding habits.
+    This repository showcases my continuous learning journey in Python programming.
+    It contains practice exercises, problem-solving implementations, and concept explorations aimed at building strong computational thinking and clean coding habits.
 
-I actively update this repository as I learn and refine new concepts.
+    I actively update this repository as I learn and refine new concepts.
 
 🎯 Why This Repository Exists
 
