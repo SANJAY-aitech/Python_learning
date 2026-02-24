@@ -42,7 +42,7 @@ This repository reflects:
 
 Clone the repository:
 
-git clone: https://github.com/SANJAY-aitech/Python_learning
+git clone https://github.com/SANJAY-aitech/Python_learning
 
 Run any Python file:
 
